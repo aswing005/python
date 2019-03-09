@@ -1,2 +1,2 @@
-# pythonprogs
+# python codes
 My python codes
